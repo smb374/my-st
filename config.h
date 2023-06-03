@@ -7,6 +7,7 @@
  */
 static char *font = "FantasqueSansM Nerd Font Mono:pixelsize=20:antialias=true:autohint=true";
 static char *font2[] = {
+    "Hack Nerd Font Mono:pixelsize=20:antialias=true:autohint=true",
     "Noto Sans CJK JP:pixelsize=20:antialias=true:autohint=true",
     "Noto Sans CJK TC:pixelsize=20:antialias=true:autohint=true",
 };
